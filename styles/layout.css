@@ -84,7 +84,7 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 #header #hgroup h1, #header #hgroup h2{font-weight:normal; font-style:normal; text-transform:none;}
 #header #hgroup h1{font-size:36px;}
 #header #hgroup h2{font-size:13px;}
-div #hgroup {width: 199px; margin: auto;}
+div #hgroup {width: 336px; margin: auto;}
 
 #header nav{display:block; float:right; margin:10px 0 0 0; padding:20px 0; color:#C0BAB6; background-color:#232323;}
 #header nav ul{padding:0 20px;}
